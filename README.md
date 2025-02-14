@@ -1,1 +1,1 @@
-# This is my personal repository for re-learning Python.
+# This is my personal repository for Python Projects and Notebooks.
